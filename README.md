@@ -1,3 +1,8 @@
+# Tasks
+The assignments were completed as part of the Full stack developer (GOIT) courses. <br>
+<b>`Name:`</b> Tasks<br>
+<b>`Technologies:`</b> TypesScript
+
 # Базові типи
 
 Метою цього домашнього завдання є закріплення ваших навичок роботи з базовими типами TypeScript. Ви будете працювати з типами, такими як number, string, boolean, null, undefined, unknown, any, а також кортежами, переліками (enum) та об'єднаннями типів.
